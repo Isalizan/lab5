@@ -1,0 +1,8 @@
+Ejecución en paralelo del programa cut_files en 4 núcleos.
+
+
+real	0m0,010s
+user	0m0,006s
+sys	0m0,034s
+
+Los ficheros han sido cortados.
